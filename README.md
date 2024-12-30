@@ -1,119 +1,38 @@
-# Meme Coin Project
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Project Name: Meme Coin Project
+## Getting Started
 
-**Who Are We?**
-We are a vibrant community-driven team passionate about combining humor and blockchain technology. Our goal is to create a token that brings joy, engagement, and value to its holders through memes and fun use cases.
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## Project Details
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Description:**
-Meme Coin Project is a cryptocurrency that harnesses the power of memes and humor to build a robust community and drive engagement. By owning Meme Coin, users gain access to exclusive meme contests, NFT drops, and community events. This token serves as a gateway to a world of laughter and innovation in the decentralized space.
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-**Key Features:**
-- Meme-based tokenomics.
-- Community-driven rewards and events.
-- Integration with NFT platforms for exclusive meme NFTs.
-- Secured by the Andromeda Protocol for trust and transparency.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
----
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Vision
+## Learn More
 
-Our vision is to create a cryptocurrency ecosystem where humor meets innovation. Built on the Andromeda Protocol, Meme Coin Project seeks to foster a global community united by laughter and blockchain. We aim to redefine engagement in the crypto space by making it fun, inclusive, and rewarding for all participants.
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Development Plan
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-### 1. **Define ADO Functions and Variables**
-   - **Token Metadata:** Define properties like `TokenName`, `Symbol`, `TotalSupply`, and `RewardMechanisms`.
-   - **Smart Contract Functions:**
-     - `MintToken()` for creating new tokens.
-     - `BurnToken()` for reducing supply when necessary.
-     - `RewardDistribution()` for community rewards.
+## Deploy on Vercel
 
-### 2. **Backend Development**
-   - Use the Andromeda Protocol to deploy smart contracts.
-   - Create an API for token-related operations and community events.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-### 3. **Frontend Development**
-   - Design an interactive web platform for:
-     - Viewing tokenomics and project updates.
-     - Participating in meme contests and voting.
-     - Claiming rewards and NFTs.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-### 4. **Testing and Quality Assurance**
-   - Conduct extensive testing of smart contracts and platform features.
-   - Ensure scalability and security.
+## Licensing
 
-### 5. **Community Building and Marketing**
-   - Launch campaigns to grow the community.
-   - Partner with influencers and meme creators.
-
-### 6. **Deployment**
-   - Deploy the Meme Coin smart contracts and web platform on the Andromeda Protocol.
-
----
-
-## Installation and Setup Guide
-
-### Prerequisites
-- Node.js
-- Andromeda CLI
-- Wallet with testnet funds
-
-### Steps
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/CanKalyoncuoglu/meme-coin-project.git
-   cd meme-coin-project
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables:**
-   - Create a `.env` file and add your Andromeda wallet keys and API settings.
-
-4. **Deploy Smart Contracts:**
-   ```bash
-   andromeda deploy contracts/memeCoin.ado
-   ```
-
-5. **Run the Front-End Application:**
-   ```bash
-   npm start
-   ```
-
-6. **Access the Application:**
-   Open your browser and navigate to `http://localhost:3000`.
-
----
-
-## Contributing
-
-We welcome contributions! Please fork the repository, create a feature branch, and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For inquiries or support, please reach out to us at [support@memecoinproject.com](mailto:support@memecoinproject.com).
-
----
-
-## Embedded Link
-
-Explore our platform: [Meme Coin Project on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Travels)
+[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
