@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Teşekkürler! Verdiğiniz bağlantıyı README dosyasına ekleyerek güncelledim. İşte yeni sürüm:
+=======
 Anladım! İşte CAN Exchange ve Can Meme Coin (CMC) için özelleştirilmiş bir README dosyası:
+>>>>>>> ed05ac325746cb546ace41cac35c94b07f8321a7
 
 ---
 
@@ -9,7 +13,11 @@ Anladım! İşte CAN Exchange ve Can Meme Coin (CMC) için özelleştirilmiş bi
 ## Who Are We?
 We are a passionate team dedicated to revolutionizing the meme coin space by combining the fun of memes with the power of blockchain. Our mission is to bring an innovative, decentralized, and engaging meme coin to the crypto world, built on the robust Andromeda Protocol. Through Can Meme Coin (CMC), we aim to foster a community-driven ecosystem that delivers both entertainment and real-world value.
 
+<<<<<<< HEAD
+[Explore our platform: CAN Exchange - Can Meme Coin (CMC) on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/CanExchange)
+=======
 [Explore our platform: CAN Exchange - Can Meme Coin (CMC) on Andromeda Protocol](#)
+>>>>>>> ed05ac325746cb546ace41cac35c94b07f8321a7
 
 ---
 
@@ -79,7 +87,11 @@ Our vision is to build a thriving, decentralized ecosystem around Can Meme Coin 
 
 1. **Clone the Repository**:
    ```bash
+<<<<<<< HEAD
+   git clone https://github.com/CanKalyoncuoglu/CAN-Exchange-Can-Meme-Coin.git
+=======
    git clone https://github.com/yourusername/CAN-Exchange-Can-Meme-Coin.git
+>>>>>>> ed05ac325746cb546ace41cac35c94b07f8321a7
    cd CAN-Exchange-Can-Meme-Coin
    ```
 
@@ -125,5 +137,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For inquiries or support, please reach out to us at [support@canexchange.com](mailto:support@canexchange.com).
 
 ---
+<<<<<<< HEAD
+=======
 
 Bu README dosyası, Can Meme Coin (CMC) ve CAN Exchange için kapsamlı bir açıklama sağlar ve projeye katılımı teşvik eder. İhtiyacınıza göre özelleştirebilirsiniz.
+>>>>>>> ed05ac325746cb546ace41cac35c94b07f8321a7
